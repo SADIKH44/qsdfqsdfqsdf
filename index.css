@@ -1,0 +1,68 @@
+body{
+    font-family: Arial, sans-serif;
+    background-image: url(https://e0.pxfuel.com/wallpapers/497/751/desktop-wallpaper-background-orange-yellow-orange.jpg);
+    margin: 0px;
+    padding: 0px;
+}
+#entete1{
+    width: 1200px;
+    height: 396px;
+}
+#text{
+    text-align: center;
+    color:#1E0F1C;
+}
+#contenu{
+    background-image: url(https://e1.pxfuel.com/desktop-wallpaper/537/888/desktop-wallpaper-yellow-orange-backgrounds-stock-background-orange.jpg);
+    width: 1200px;
+    padding-top: 25px;
+    padding-left: 25px;
+    height: 500px;
+}
+#gauche{
+    width: 45%;
+    float: left;
+    padding-left: 0px;
+    padding-top: 0px;
+    margin-left: 20px;
+}
+h3{
+    margin-top: 0px;
+    background-image: url(https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg);
+    width: 1150px;
+    height: 50px;
+    text-align: center;
+    margin-left: 1px;
+    margin-right: 10px;
+    color: #FCFE19;
+    padding-top: 9px;
+}
+#droite1{
+    float: right;
+    padding-left: 2px;
+    padding-top: 0px;
+    padding-right: 70px ;
+ }
+#principal1{
+
+    width: 1263px;
+    height: 5000px;
+}
+#p{
+  float: left;
+  padding-right: 5px;
+}
+#principal2{
+    padding-top: 0px;
+    width: 1263px;
+    height: 1210px;
+}
+footer{
+    color: #FCFE19;
+    padding-top: 10px;
+    text-align: center;
+    display: flex;
+    height: 70px;
+    background-image: url(https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg);
+}
+
